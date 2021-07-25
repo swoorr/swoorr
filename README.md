@@ -1,5 +1,9 @@
 ### Hi there 👋
+- 🔭 I’m currently working on Path.com.tr
+- 🌱 I’m currently researching hybrid apps
+- 📫 How to reach me: furkansahin23@gmail.com
 
+- 😄 my first npm package: https://www.npmjs.com/package/@swoorr/vue-selectable-datepicker
 <!--
 **swoorr/swoorr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
