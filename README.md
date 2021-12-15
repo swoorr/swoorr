@@ -4,6 +4,9 @@
 - 📫 How to reach me: furkansahin23@gmail.com
 
 - 😄 my first npm package: https://www.npmjs.com/package/@swoorr/vue-selectable-datepicker
+
+![](https://komarev.com/ghpvc/?username=swoorr)
+
 <!--
 **swoorr/swoorr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
