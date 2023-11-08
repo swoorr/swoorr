@@ -6,7 +6,6 @@ Software Developer
 
 * 🌍  I'm based in Istanbul
 * 🖥️  See my portfolio at [swor.dev](http://swor.dev)
-* 🚀  I'm currently working on [Path](http://path.com.tr)
 
 <a href="https://www.twitter.com/furkansahins34" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/furkansahins34?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
